@@ -1,4 +1,4 @@
-/* Randomly Generated Chatbot Stylesheet */
+/* Randomly Generated Chatbot Stylesheet with Font Family "Courier" */
 
 /* Set the height, position, border, border-radius, and z-index of the chatbot widget */
 .bpw-layout {
@@ -103,6 +103,8 @@ a:hover {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    /* Change font family to "Courier" */
+    font-family: Courier, monospace;
 }
 
 /* Set the appearance and background image of the chatbot widget button */
